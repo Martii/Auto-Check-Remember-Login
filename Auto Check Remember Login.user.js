@@ -15,7 +15,7 @@
 // @compatible        chrome
 // @compatible        firefox
 // @compatible        opera
-// @license           GPL-3.0
+// @license           GPL-3.0-or-later
 // @grant             GM_registerMenuCommand
 // @grant             GM_addStyle
 // @grant             GM_setValue
